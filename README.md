@@ -36,7 +36,7 @@ Let's start by adding the bare essentials of an HTML document to the provided
 
 > Note: Recall that best practice indicates that any HTML elements that are
 > nested inside other HTML elements (i.e., between the opening and closing tags
-> of another element) should be indented. It is not *necessary* to use
+> of another element) should be indented. It is not _necessary_ to use
 > indenting, either for the HTML to render properly or to pass the tests, but
 > it's a good habit to get into. Go ahead and indent the `head` and `body` tags
 > inside the `html` tags, if you haven't already.
